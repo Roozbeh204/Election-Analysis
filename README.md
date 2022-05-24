@@ -22,6 +22,21 @@
      -Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of the votes.
 - The winner of the election was "Diana DeGette" who received "73.8%" of the vote and "272,892" number of the votes.
 ## Challenge Overview
+- Calculate the voter turnout for each county
+- Calculate the percentage of votes from each county out of the total count
+- Determine the county with the highest turnout
 ## Challenge Summary
+- The analysis of the election data illustrates that:
+     - the voter turnout for "Jefferson" was "38,855".
+     - the voter turnout for "Denver" was "306,055".
+     -  the voter turnout for "Arapahoe" was "24,801".
+The analysis for the percentage of the voter turnouts show that:
+     - "82.8%" voted in "Denver".
+     - "10.5%" voted in "Jefferson".
+     - "6.7%" voted in "Arapahoe".
+- Drawing a comparison among the calculated figures reveals that:
+     - The Winner County is "Denver" with "306,055" Winning Vote Count, which comprised "82.8%" of the Winning Percentages.  
+
+ 
     
 
